@@ -1,95 +1,68 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafa-houssam.profile" />
-</div>
-
----
-
-<h1 align="center">Hey there 👋, I'm Rafa Houssam</h1>
+<h1 align="center">Hi, I'm Rafa Houssam 👋</h1>
 
 <p align="center">
-  🧠 Passionate Full-Stack Developer | 💻 Python & JS Craftsman | 🤖 Machine Learning Enthusiast
+  🧑‍💻 Full-Stack Developer | 🔍 Clean Code Advocate | 🤖 Machine Learning Explorer  
+  <br />
+  <a href="https://houssam.dev" target="_blank"><strong>🌐 Visit My Portfolio →</strong></a>
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafa-houssam-5897312b2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" />
+  </a>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a full-stack developer with a strong background in **Next.js**, **Tailwind CSS**, **Django**, and **API development**.
-- 🧪 I'm also diving deep into the world of **Machine Learning** with **Python**, **C**, and **Java**.
-- 🚀 I love building **robust web applications**, **beautiful UIs**, and **intelligent systems**.
-- 🛠 I'm a firm believer in writing clean code, learning in public, and contributing to open source.
+- 🎓 Full-stack developer with strong expertise in **Next.js**, **Django**, **Tailwind CSS**, and **API development**
+- 💡 Passionate about clean architecture, developer experience, and modern UI/UX
+- 🤖 Currently deepening my skills in **Machine Learning**, working with **Python**, **C**, and **Java**
+- 🌍 Open to freelance, collaboration, and impactful tech projects  
+- 💬 I believe in shipping with purpose, learning in public, and writing elegant code
 
----
+## 🚀 Tech Stack
 
-## 🧠 Current Focus
+**Languages & Frameworks:**  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
-- 🎯 Building production-ready full-stack apps (Next.js + Django)
-- 🧠 Practicing ML/AI concepts (Scikit-learn, Pandas, NLP, etc.)
-- 🔬 Experimenting with backend architectures & clean API design
-- 🧱 Growing mastery in Python, C, and system-level thinking
+**Styling & UI:**  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?logo=framer&logoColor=white&style=for-the-badge)
 
----
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
-## 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-</div>
-
----
-
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafa-houssam&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=rafa-houssam&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
----
+## 💡 Highlight
 
-## ⚡ Fun Facts
-
-- I sometimes refactor just for fun 😄
-- I love solving algorithmic puzzles and performance tuning
-- I enjoy working on both code and design — dev + creative = ❤️
+- ✨ Creator of multiple **end-to-end full-stack applications**
+- 🛡️ Focused on **security**, **performance**, and **clean code**
+- 🧠 Committed to **continuous learning** and community knowledge sharing
 
 ---
 
-> 💬 *"Code is like poetry — clean, expressive, and powerful."*
+> *"Your code should speak before you do."* – Let’s build something meaningful.
 
 ---
 

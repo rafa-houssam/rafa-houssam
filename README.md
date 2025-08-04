@@ -6,9 +6,15 @@
 
 <p align="center">
   💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
-  <br />
-  <a href="https://houssam.dev" target="_blank"><strong>🌐 Check out my portfolio → houssam.dev</strong></a>
 </p>
+
+<div align="center">
+  <a href="https://houssam.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 My Portfolio-houssam.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <h3>📲 Follow Me On</h3>
@@ -22,31 +28,50 @@
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-- 🔧 Full-stack developer building modern web apps with **Next.js**, **Tailwind CSS**, and **Django**
-- 📦 I work with **APIs**, **databases**, and **interactive UIs** that feel fast and beautiful
-- 🧠 Exploring the world of **machine learning** with Python, C, and Java
-- 🌍 I love solving real-world problems with code and clean architecture
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</div>
+
+- 🔧 Full-stack developer building modern, responsive, and scalable web apps  
+- 🚀 Passionate about clean architecture, backend logic, and frontend finesse  
+- 🤖 Exploring ML & AI through real-world projects using Python, C, and Java  
+- 🌐 I love shipping real projects, building in public, and sharing what I learn  
 
 ---
 
-## 🚀 Tech Toolbox (Animated 👇)
+## 🛠 My Tech Toolbox
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+### 🎨 Frontend
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200" alt="coding gif" />
+### ⚙️ Backend
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
+
+### 🧠 Machine Learning & Programming
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
 </div>
 
 ---
@@ -62,13 +87,13 @@
 
 ## 🔥 Projects & Goals
 
-- 🛠 Building real-world full-stack apps  
-- 📚 Constantly learning advanced backend & ML  
-- 🤝 Always open to meaningful collaborations
+- 🧱 Full-stack apps with clean frontend and robust backend  
+- 📡 API-first and scalable architectures  
+- 🤖 Experimenting with ML models for real-life tasks  
+- ✨ Always building, always sharing, always growing
 
 ---
 
-<p align="center">
-  <strong>Let’s build the future with code.</strong><br />
-  <a href="https://houssam.dev" target="_blank">Visit houssam.dev →</a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" />
+</div>

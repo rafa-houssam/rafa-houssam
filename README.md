@@ -117,18 +117,37 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/rafa-houssam/email_spam_detection_NLP_classification_models"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-houssam&repo=email_spam_detection_NLP_classification_models&theme=tokyonight&hide_border=true" height="150"/></a>
-  <a href="https://github.com/rafa-houssam/frontendMasters-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-houssam&repo=frontendMasters-projects&theme=tokyonight&hide_border=true" height="150"/></a>
-</div>
-<div align="center">
-  <a href="https://github.com/rafa-houssam/UNO_GAME-TP1_ALSDD-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-houssam&repo=UNO_GAME-TP1_ALSDD-&theme=tokyonight&hide_border=true" height="150"/></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3" width="100%"/>
-</div>
-
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/rafa-houssam/email_spam_detection_NLP_classification_models">
+        <h3>📧 Email Spam Detection (NLP)</h3>
+      </a>
+      <p>NLP-based classification models to detect spam emails.</p>
+      <img src="https://img.shields.io/github/stars/rafa-houssam/email_spam_detection_NLP_classification_models?style=flat-square&color=6C63FF" />
+      <img src="https://img.shields.io/github/languages/top/rafa-houssam/email_spam_detection_NLP_classification_models?style=flat-square&color=00D9FF" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/rafa-houssam/frontendMasters-projects">
+        <h3>🎨 Frontend Masters Projects</h3>
+      </a>
+      <p>A collection of frontend projects and exercises.</p>
+      <img src="https://img.shields.io/github/stars/rafa-houssam/frontendMasters-projects?style=flat-square&color=6C63FF" />
+      <img src="https://img.shields.io/github/languages/top/rafa-houssam/frontendMasters-projects?style=flat-square&color=00D9FF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/rafa-houssam/UNO_GAME-TP1_ALSDD-">
+        <h3>🃏 UNO Game (Data Structures)</h3>
+      </a>
+      <p>UNO card game implementation for a data structures course project.</p>
+      <img src="https://img.shields.io/github/stars/rafa-houssam/UNO_GAME-TP1_ALSDD-?style=flat-square&color=6C63FF" />
+      <img src="https://img.shields.io/github/languages/top/rafa-houssam/UNO_GAME-TP1_ALSDD-?style=flat-square&color=00D9FF" />
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 ## 🎯 What's Next
 
 - [ ] Turn a notebook ML model into a real, deployed API

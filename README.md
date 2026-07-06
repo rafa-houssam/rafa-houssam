@@ -25,29 +25,18 @@
 
 ## 🧑‍💻 About Me
 
-
-
 - 🎓 3rd-year Computer Science student at **ESI Algiers** — Algeria's National Higher School of Computer Science
-
 - 🧱 Building full-stack apps with clean, maintainable frontends and robust backends
-
 - 📡 Designing scalable APIs with authentication and security baked in from day one
-
 - 🤖 Training and experimenting with ML models on real datasets — NLP, classification, and beyond
-
 - 🇩🇿 Based in Algeria, building for anyone who'll use it
-
 - 💬 Ask me about Next.js, Django, or turning a notebook model into a real API
-
 - ⚡ My own bio puts it best: *"always learning, growing, and always fighting"*
 
-
-
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3" width="100%"/>
-
 </div>
+
 ## 🧰 Tech Toolbox
 
 <div align="center">
@@ -56,11 +45,13 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,nextjs,figma&theme=dark" />
   </a>
   <br/><br/>
+  
   <p>Backend & Database</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,docker,git,github&theme=dark" />
   </a>
   <br/><br/>
+  
   <p>Machine Learning</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,matlab&theme=dark" />
@@ -75,146 +66,63 @@
 </div>
 <br/>
 
-
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=rafa-houssam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-
   <img src="https://streak-stats.demolab.com?user=rafa-houssam&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-
 </div>
 
-
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-houssam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165" />
-
   <img src="https://github-profile-trophy.vercel.app/?username=rafa-houssam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" height="165" />
-
 </div>
 
-
-
 <div align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafa-houssam&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 </div>
 
-
-
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3" width="100%"/>
-
 </div>
 
 ## 🚀 Featured Projects
 
-
-
 <table>
-
   <tr>
-
     <td width="50%">
-
       <a href="https://github.com/rafa-houssam/email_spam_detection_NLP_classification_models">
-
         <h3>📧 Email Spam Detection (NLP)</h3>
-
       </a>
-
       <p>NLP-based classification models to detect spam emails.</p>
-
       <img src="https://img.shields.io/github/stars/rafa-houssam/email_spam_detection_NLP_classification_models?style=flat-square&color=6C63FF" />
-
       <img src="https://img.shields.io/github/languages/top/rafa-houssam/email_spam_detection_NLP_classification_models?style=flat-square&color=00D9FF" />
-
     </td>
-
     <td width="50%">
-
       <a href="https://github.com/rafa-houssam/frontendMasters-projects">
-
         <h3>🎨 Frontend Masters Projects</h3>
-
       </a>
-
       <p>A collection of frontend projects and exercises.</p>
-
       <img src="https://img.shields.io/github/stars/rafa-houssam/frontendMasters-projects?style=flat-square&color=6C63FF" />
-
       <img src="https://img.shields.io/github/languages/top/rafa-houssam/frontendMasters-projects?style=flat-square&color=00D9FF" />
-
     </td>
-
   </tr>
-
   <tr>
-
     <td width="50%">
-
       <a href="https://github.com/rafa-houssam/UNO_GAME-TP1_ALSDD-">
-
         <h3>🃏 UNO Game (Data Structures)</h3>
-
       </a>
-
       <p>UNO card game implementation for a data structures course project.</p>
-
       <img src="https://img.shields.io/github/stars/rafa-houssam/UNO_GAME-TP1_ALSDD-?style=flat-square&color=6C63FF" />
-
       <img src="https://img.shields.io/github/languages/top/rafa-houssam/UNO_GAME-TP1_ALSDD-?style=flat-square&color=00D9FF" />
-
     </td>
-
     <td width="50%"></td>
-
   </tr>
-
 </table>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rafa-houssam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-
-  <img src="https://streak-stats.demolab.com?user=rafa-houssam&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-
-</div>
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-houssam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=rafa-houssam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" height="165" />
-
-</div>
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafa-houssam&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-
-
-<div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3" width="100%"/>
-
 </div>
-
-
 
 ## 🐍 The Commit Snake
 

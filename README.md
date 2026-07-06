@@ -75,6 +75,45 @@
 </div>
 <br/>
 
+
+## 📊 GitHub Analytics
+
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rafa-houssam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+
+  <img src="https://streak-stats.demolab.com?user=rafa-houssam&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+
+</div>
+
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-houssam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=rafa-houssam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" height="165" />
+
+</div>
+
+
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafa-houssam&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3" width="100%"/>
+
+</div>
+
 ## 🚀 Featured Projects
 
 
@@ -140,10 +179,6 @@
   </tr>
 
 </table>
-
-## 📊 GitHub Analytics
-
-
 
 <div align="center">
 

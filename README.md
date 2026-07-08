@@ -22,6 +22,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3" width="100%"/>
 </div>
 <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160" />
+</div>
 
 ## 🧑‍💻 About Me
 
